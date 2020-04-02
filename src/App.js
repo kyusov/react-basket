@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './App.css';
+// import './App.css';
 import Card from './Card/Card'
 import Basket from './BasketList/Basket'
 
